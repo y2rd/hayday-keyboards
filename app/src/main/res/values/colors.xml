@@ -1,0 +1,13 @@
+<resources>
+    <color name="soil">#E6F0EA</color>
+    <color name="surfaceCard">#FFFFFF</color>
+    <color name="greenPrimary">#2E7D32</color>
+    <color name="greenDark">#1F5B24</color>
+    <color name="greenSoft">#DDEFE1</color>
+    <color name="brown">#5E4330</color>
+    <color name="textPrimary">#213026</color>
+    <color name="textSecondary">#647267</color>
+    <color name="gold">#F9C74F</color>
+    <color name="star">#FFB300</color>
+    <color name="chipStroke">#BFD4C3</color>
+</resources>

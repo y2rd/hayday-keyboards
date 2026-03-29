@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hay Day Keyboard</string>
+    <string name="keyboard_name">Hay Day Keyboard</string>
+    <string name="open_keyboard_settings">Open keyboard settings</string>
+    <string name="choose_keyboard">Choose keyboard</string>
+    <string name="app_intro">Hay Day keyboard with products grouped by machine, search, favorites, level filter, Arabic/English and local images support.</string>
+    <string name="search_hint">Search product or machine</string>
+    <string name="tab_all">All</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="language_ar">العربية</string>
+    <string name="language_en">English</string>
+    <string name="level_from">Level range</string>
+    <string name="level_to">Max level</string>
+    <string name="favorites_empty">No favorites yet.</string>
+    <string name="machine_level">Machine Lv. %1$d</string>
+    <string name="product_level">Lv. %1$d</string>
+    <string name="backspace">Backspace</string>
+    <string name="clear_search">Clear</string>
+    <string name="add_local_images_note">Put your local product images inside app/src/main/assets/product_images/ using the product id, for example bread.png or feta_pie.png.</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="machine_all">All machines</string>
+    <string name="tap_to_insert">Tap to insert</string>
+    <string name="reset_filters">Reset</string>
+    <string name="dataset_meta">%1$d products • %2$d machines</string>
+    <string name="header_results">%1$s • %2$d</string>
+    <string name="no_results">No products match the current filters.</string>
+</resources>

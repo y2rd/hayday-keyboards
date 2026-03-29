@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">كيبورد هاي داي</string>
+    <string name="keyboard_name">كيبورد هاي داي</string>
+    <string name="open_keyboard_settings">فتح إعدادات الكيبورد</string>
+    <string name="choose_keyboard">اختيار الكيبورد</string>
+    <string name="app_intro">كيبورد لمنتجات هاي داي مرتب حسب الآلات، مع بحث ومفضلة وفلترة بالمستوى ودعم العربية والإنجليزية والصور المحلية.</string>
+    <string name="search_hint">ابحث عن منتج أو آلة</string>
+    <string name="tab_all">الكل</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="language_ar">العربية</string>
+    <string name="language_en">English</string>
+    <string name="level_from">نطاق المستوى</string>
+    <string name="level_to">إلى مستوى</string>
+    <string name="favorites_empty">لا توجد عناصر مفضلة بعد.</string>
+    <string name="machine_level">مستوى الآلة %1$d</string>
+    <string name="product_level">لفل %1$d</string>
+    <string name="backspace">حذف</string>
+    <string name="clear_search">مسح</string>
+    <string name="add_local_images_note">ضع صور المنتجات المحلية داخل app/src/main/assets/product_images/ باسم معرف المنتج مثل bread.png أو feta_pie.png.</string>
+    <string name="favorite">إضافة للمفضلة</string>
+    <string name="unfavorite">إزالة من المفضلة</string>
+    <string name="machine_all">كل الآلات</string>
+    <string name="tap_to_insert">اضغط للإدراج</string>
+    <string name="reset_filters">إعادة ضبط</string>
+    <string name="dataset_meta">%1$d منتج • %2$d آلة</string>
+    <string name="header_results">%1$s • %2$d</string>
+    <string name="no_results">لا توجد منتجات مطابقة للفلاتر الحالية.</string>
+</resources>

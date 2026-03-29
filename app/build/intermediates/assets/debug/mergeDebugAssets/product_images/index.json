@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "folders": [
+    "product_images"
+  ],
+  "extensions": [
+    "png",
+    "webp",
+    "jpg",
+    "jpeg"
+  ],
+  "note": "ضع الصورة باسم product id مثل bread.png. يمكنك أيضا استخدام aliases داخل هذا الملف.",
+  "aliases": {
+    "bread": [
+      "bread.png",
+      "bread.webp",
+      "bread.jpg",
+      "bread.jpeg"
+    ],
+    "corn_bread": [
+      "corn_bread.png",
+      "corn_bread.webp",
+      "corn_bread.jpg",
+      "corn_bread.jpeg"
+    ],
+    "cookie": [
+      "cookie.png",
+      "cookie.webp",
+      "cookie.jpg",
+      "cookie.jpeg"
+    ],
+    "brown_bread": [
+      "brown_bread.png",
+      "brown_bread.webp",
+      "brown_bread.jpg",
+      "brown_bread.jpeg"
+    ],
+    "raspberry_muffin": [
+      "raspberry_muffin.png",
+      "raspberry_muffin.webp",
+      "raspberry_muffin.jpg",
+      "raspberry_muffin.jpeg"
+    ],
+    "blackberry_muffin": [
+      "blackberry_muffin.png",
+      "blackberry_muffin.webp",
+      "blackberry_muffin.jpg",
+      "blackberry_muffin.jpeg"
+    ],
+    "potato_bread": [
+      "potato_bread.png",
+      "potato_bread.webp",
+      "potato_bread.jpg",
+      "potato_bread.jpeg"
+    ],
+    "banana_bread": [
+      "banana_bread.png",
+      "banana_bread.webp",
+      "banana_bread.jpg",
+      "banana_bread.jpeg"
+    ],
+    "pizza": [
+      "pizza.png",
+      "pizza.webp",
+      "pizza.jpg",
+      "pizza.jpeg"
+    ],
+    "cream": [
+      "cream.png",
+      "cream.webp",
+      "cream.jpg",
+      "cream.jpeg"
+    ],
+    "butter": [
+      "butter.png",
+      "butter.webp",
+      "butter.jpg",
+      "butter.jpeg"
+    ],
+    "cheese": [
+      "cheese.png",
+      "cheese.webp",
+      "cheese.jpg",
+      "cheese.jpeg"
+    ],
+    "goat_cheese": [
+      "goat_cheese.png",
+      "goat_cheese.webp",
+      "goat_cheese.jpg",
+      "goat_cheese.jpeg"
+    ],
+    "feta_pie_filling": [
+      "feta_pie_filling.png",
+      "feta_pie_filling.webp",
+      "feta_pie_filling.jpg",
+      "feta_pie_filling.jpeg"
+    ],
+    "brown_sugar": [
+      "brown_sugar.png",
+      "brown_sugar.webp",
+      "brown_sugar.jpg",
+      "brown_sugar.jpeg"
+    ],
+    "white_sugar": [
+      "white_sugar.png",
+      "white_sugar.webp",
+      "white_sugar.jpg",
+      "white_sugar.jpeg"
+    ],
+    "syrup": [
+      "syrup.png",
+      "syrup.webp",
+      "syrup.jpg",
+      "syrup.jpeg"
+    ],
+    "popcorn": [
+      "popcorn.png",
+      "popcorn.webp",
+      "popcorn.jpg",
+      "popcorn.jpeg"
+    ],
+    "butter_popcorn": [
+      "butter_popcorn.png",
+      "butter_popcorn.webp",
+      "butter_popcorn.jpg",
+      "butter_popcorn.jpeg"
+    ],
+    "chili_popcorn": [
+      "chili_popcorn.png",
+      "chili_popcorn.webp",
+      "chili_popcorn.jpg",
+      "chili_popcorn.jpeg"
+    ],
+    "snack_mix": [
+      "snack_mix.png",
+      "snack_mix.webp",
+      "snack_mix.jpg",
+      "snack_mix.jpeg"
+    ],
+    "chocolate_popcorn": [
+      "chocolate_popcorn.png",
+      "chocolate_popcorn.webp",
+      "chocolate_popcorn.jpg",
+      "chocolate_popcorn.jpeg"
+    ],
+    "pancakes": [
+      "pancakes.png",
+      "pancakes.webp",
+      "pancakes.jpg",
+      "pancakes.jpeg"
+    ],
+    "bacon_and_eggs": [
+      "bacon_and_eggs.png",
+      "bacon_and_eggs.webp",
+      "bacon_and_eggs.jpg",
+      "bacon_and_eggs.jpeg"
+    ],
+    "hamburger": [
+      "hamburger.png",
+      "hamburger.webp",
+      "hamburger.jpg",
+      "hamburger.jpeg"
+    ],
+    "fish_burger": [
+      "fish_burger.png",
+      "fish_burger.webp",
+      "fish_burger.jpg",
+      "fish_burger.jpeg"
+    ],
+    "roasted_tomatoes": [
+      "roasted_tomatoes.png",
+      "roasted_tomatoes.webp",
+      "roasted_tomatoes.jpg",
+      "roasted_tomatoes.jpeg"
+    ],
+    "carrot_pie": [
+      "carrot_pie.png",
+      "carrot_pie.webp",
+      "carrot_pie.jpg",
+      "carrot_pie.jpeg"
+    ],
+    "pumpkin_pie": [
+      "pumpkin_pie.png",
+      "pumpkin_pie.webp",
+      "pumpkin_pie.jpg",
+      "pumpkin_pie.jpeg"
+    ],
+    "bacon_pie": [
+      "bacon_pie.png",
+      "bacon_pie.webp",
+      "bacon_pie.jpg",
+      "bacon_pie.jpeg"
+    ],
+    "apple_pie": [
+      "apple_pie.png",
+      "apple_pie.webp",
+      "apple_pie.jpg",
+      "apple_pie.jpeg"
+    ],
+    "feta_pie": [
+      "feta_pie.png",
+      "feta_pie.webp",
+      "feta_pie.jpg",
+      "feta_pie.jpeg"
+    ],
+    "fish_pie": [
+      "fish_pie.png",
+      "fish_pie.webp",
+      "fish_pie.jpg",
+      "fish_pie.jpeg"
+    ],
+    "shepherds_pie": [
+      "shepherds_pie.png",
+      "shepherds_pie.webp",
+      "shepherds_pie.jpg",
+      "shepherds_pie.jpeg"
+    ],
+    "cream_cake": [
+      "cream_cake.png",
+      "cream_cake.webp",
+      "cream_cake.jpg",
+      "cream_cake.jpeg"
+    ],
+    "carrot_cake": [
+      "carrot_cake.png",
+      "carrot_cake.webp",
+      "carrot_cake.jpg",
+      "carrot_cake.jpeg"
+    ],
+    "cheesecake": [
+      "cheesecake.png",
+      "cheesecake.webp",
+      "cheesecake.jpg",
+      "cheesecake.jpeg"
+    ],
+    "strawberry_cake": [
+      "strawberry_cake.png",
+      "strawberry_cake.webp",
+      "strawberry_cake.jpg",
+      "strawberry_cake.jpeg"
+    ],
+    "chocolate_cake": [
+      "chocolate_cake.png",
+      "chocolate_cake.webp",
+      "chocolate_cake.jpg",
+      "chocolate_cake.jpeg"
+    ],
+    "red_berry_cake": [
+      "red_berry_cake.png",
+      "red_berry_cake.webp",
+      "red_berry_cake.jpg",
+      "red_berry_cake.jpeg"
+    ],
+    "carrot_juice": [
+      "carrot_juice.png",
+      "carrot_juice.webp",
+      "carrot_juice.jpg",
+      "carrot_juice.jpeg"
+    ],
+    "apple_juice": [
+      "apple_juice.png",
+      "apple_juice.webp",
+      "apple_juice.jpg",
+      "apple_juice.jpeg"
+    ],
+    "cherry_juice": [
+      "cherry_juice.png",
+      "cherry_juice.webp",
+      "cherry_juice.jpg",
+      "cherry_juice.jpeg"
+    ],
+    "berry_juice": [
+      "berry_juice.png",
+      "berry_juice.webp",
+      "berry_juice.jpg",
+      "berry_juice.jpeg"
+    ],
+    "tomato_juice": [
+      "tomato_juice.png",
+      "tomato_juice.webp",
+      "tomato_juice.jpg",
+      "tomato_juice.jpeg"
+    ],
+    "orange_juice": [
+      "orange_juice.png",
+      "orange_juice.webp",
+      "orange_juice.jpg",
+      "orange_juice.jpeg"
+    ],
+    "wooly_chaps": [
+      "wooly_chaps.png",
+      "wooly_chaps.webp",
+      "wooly_chaps.jpg",
+      "wooly_chaps.jpeg"
+    ],
+    "blue_sweater": [
+      "blue_sweater.png",
+      "blue_sweater.webp",
+      "blue_sweater.jpg",
+      "blue_sweater.jpeg"
+    ],
+    "cotton_shirt": [
+      "cotton_shirt.png",
+      "cotton_shirt.webp",
+      "cotton_shirt.jpg",
+      "cotton_shirt.jpeg"
+    ],
+    "red_scarf": [
+      "red_scarf.png",
+      "red_scarf.webp",
+      "red_scarf.jpg",
+      "red_scarf.jpeg"
+    ],
+    "flower_shawl": [
+      "flower_shawl.png",
+      "flower_shawl.webp",
+      "flower_shawl.jpg",
+      "flower_shawl.jpeg"
+    ],
+    "blanket": [
+      "blanket.png",
+      "blanket.webp",
+      "blanket.jpg",
+      "blanket.jpeg"
+    ],
+    "violet_dress": [
+      "violet_dress.png",
+      "violet_dress.webp",
+      "violet_dress.jpg",
+      "violet_dress.jpeg"
+    ],
+    "cotton_pants": [
+      "cotton_pants.png",
+      "cotton_pants.webp",
+      "cotton_pants.jpg",
+      "cotton_pants.jpeg"
+    ],
+    "cap": [
+      "cap.png",
+      "cap.webp",
+      "cap.jpg",
+      "cap.jpeg"
+    ],
+    "apple_jam": [
+      "apple_jam.png",
+      "apple_jam.webp",
+      "apple_jam.jpg",
+      "apple_jam.jpeg"
+    ],
+    "raspberry_jam": [
+      "raspberry_jam.png",
+      "raspberry_jam.webp",
+      "raspberry_jam.jpg",
+      "raspberry_jam.jpeg"
+    ],
+    "blackberry_jam": [
+      "blackberry_jam.png",
+      "blackberry_jam.webp",
+      "blackberry_jam.jpg",
+      "blackberry_jam.jpeg"
+    ],
+    "cherry_jam": [
+      "cherry_jam.png",
+      "cherry_jam.webp",
+      "cherry_jam.jpg",
+      "cherry_jam.jpeg"
+    ],
+    "strawberry_jam": [
+      "strawberry_jam.png",
+      "strawberry_jam.webp",
+      "strawberry_jam.jpg",
+      "strawberry_jam.jpeg"
+    ],
+    "orange_marmalade": [
+      "orange_marmalade.png",
+      "orange_marmalade.webp",
+      "orange_marmalade.jpg",
+      "orange_marmalade.jpeg"
+    ],
+    "ice_cream": [
+      "ice_cream.png",
+      "ice_cream.webp",
+      "ice_cream.jpg",
+      "ice_cream.jpeg"
+    ],
+    "sesame_ice_cream": [
+      "sesame_ice_cream.png",
+      "sesame_ice_cream.webp",
+      "sesame_ice_cream.jpg",
+      "sesame_ice_cream.jpeg"
+    ],
+    "cherry_popsicle": [
+      "cherry_popsicle.png",
+      "cherry_popsicle.webp",
+      "cherry_popsicle.jpg",
+      "cherry_popsicle.jpeg"
+    ],
+    "vanilla_ice_cream": [
+      "vanilla_ice_cream.png",
+      "vanilla_ice_cream.webp",
+      "vanilla_ice_cream.jpg",
+      "vanilla_ice_cream.jpeg"
+    ],
+    "coffee": [
+      "coffee.png",
+      "coffee.webp",
+      "coffee.jpg",
+      "coffee.jpeg"
+    ],
+    "espresso": [
+      "espresso.png",
+      "espresso.webp",
+      "espresso.jpg",
+      "espresso.jpeg"
+    ],
+    "caffe_latte": [
+      "caffe_latte.png",
+      "caffe_latte.webp",
+      "caffe_latte.jpg",
+      "caffe_latte.jpeg"
+    ],
+    "mocha": [
+      "mocha.png",
+      "mocha.webp",
+      "mocha.jpg",
+      "mocha.jpeg"
+    ],
+    "lobster_soup": [
+      "lobster_soup.png",
+      "lobster_soup.webp",
+      "lobster_soup.jpg",
+      "lobster_soup.jpeg"
+    ],
+    "tomato_soup": [
+      "tomato_soup.png",
+      "tomato_soup.webp",
+      "tomato_soup.jpg",
+      "tomato_soup.jpeg"
+    ],
+    "fish_soup": [
+      "fish_soup.png",
+      "fish_soup.webp",
+      "fish_soup.jpg",
+      "fish_soup.jpeg"
+    ],
+    "noodle_soup": [
+      "noodle_soup.png",
+      "noodle_soup.webp",
+      "noodle_soup.jpg",
+      "noodle_soup.jpeg"
+    ],
+    "bacon_toast": [
+      "bacon_toast.png",
+      "bacon_toast.webp",
+      "bacon_toast.jpg",
+      "bacon_toast.jpeg"
+    ],
+    "egg_sandwich": [
+      "egg_sandwich.png",
+      "egg_sandwich.webp",
+      "egg_sandwich.jpg",
+      "egg_sandwich.jpeg"
+    ],
+    "fish_sandwich": [
+      "fish_sandwich.png",
+      "fish_sandwich.webp",
+      "fish_sandwich.jpg",
+      "fish_sandwich.jpeg"
+    ],
+    "toffee": [
+      "toffee.png",
+      "toffee.webp",
+      "toffee.jpg",
+      "toffee.jpeg"
+    ],
+    "candy_apple": [
+      "candy_apple.png",
+      "candy_apple.webp",
+      "candy_apple.jpg",
+      "candy_apple.jpeg"
+    ],
+    "chocolate": [
+      "chocolate.png",
+      "chocolate.webp",
+      "chocolate.jpg",
+      "chocolate.jpeg"
+    ],
+    "lollipop": [
+      "lollipop.png",
+      "lollipop.webp",
+      "lollipop.jpg",
+      "lollipop.jpeg"
+    ],
+    "fresh_pasta": [
+      "fresh_pasta.png",
+      "fresh_pasta.webp",
+      "fresh_pasta.jpg",
+      "fresh_pasta.jpeg"
+    ],
+    "lasagna": [
+      "lasagna.png",
+      "lasagna.webp",
+      "lasagna.jpg",
+      "lasagna.jpeg"
+    ],
+    "pasta_salad": [
+      "pasta_salad.png",
+      "pasta_salad.webp",
+      "pasta_salad.jpg",
+      "pasta_salad.jpeg"
+    ],
+    "fried_rice": [
+      "fried_rice.png",
+      "fried_rice.webp",
+      "fried_rice.jpg",
+      "fried_rice.jpeg"
+    ],
+    "tofu_stir_fry": [
+      "tofu_stir_fry.png",
+      "tofu_stir_fry.webp",
+      "tofu_stir_fry.jpg",
+      "tofu_stir_fry.jpeg"
+    ],
+    "noodles": [
+      "noodles.png",
+      "noodles.webp",
+      "noodles.jpg",
+      "noodles.jpeg"
+    ],
+    "green_salad": [
+      "green_salad.png",
+      "green_salad.webp",
+      "green_salad.jpg",
+      "green_salad.jpeg"
+    ],
+    "potato_salad": [
+      "potato_salad.png",
+      "potato_salad.webp",
+      "potato_salad.jpg",
+      "potato_salad.jpeg"
+    ],
+    "seafood_salad": [
+      "seafood_salad.png",
+      "seafood_salad.webp",
+      "seafood_salad.jpg",
+      "seafood_salad.jpeg"
+    ],
+    "berry_smoothie": [
+      "berry_smoothie.png",
+      "berry_smoothie.webp",
+      "berry_smoothie.jpg",
+      "berry_smoothie.jpeg"
+    ],
+    "tropical_smoothie": [
+      "tropical_smoothie.png",
+      "tropical_smoothie.webp",
+      "tropical_smoothie.jpg",
+      "tropical_smoothie.jpeg"
+    ],
+    "green_smoothie": [
+      "green_smoothie.png",
+      "green_smoothie.webp",
+      "green_smoothie.jpg",
+      "green_smoothie.jpeg"
+    ],
+    "sushi_roll": [
+      "sushi_roll.png",
+      "sushi_roll.webp",
+      "sushi_roll.jpg",
+      "sushi_roll.jpeg"
+    ],
+    "egg_sushi": [
+      "egg_sushi.png",
+      "egg_sushi.webp",
+      "egg_sushi.jpg",
+      "egg_sushi.jpeg"
+    ],
+    "lobster_sushi": [
+      "lobster_sushi.png",
+      "lobster_sushi.webp",
+      "lobster_sushi.jpg",
+      "lobster_sushi.jpeg"
+    ],
+    "pickles": [
+      "pickles.png",
+      "pickles.webp",
+      "pickles.jpg",
+      "pickles.jpeg"
+    ],
+    "kimchi": [
+      "kimchi.png",
+      "kimchi.webp",
+      "kimchi.jpg",
+      "kimchi.jpeg"
+    ],
+    "guava_compote": [
+      "guava_compote.png",
+      "guava_compote.webp",
+      "guava_compote.jpg",
+      "guava_compote.jpeg"
+    ]
+  }
+}

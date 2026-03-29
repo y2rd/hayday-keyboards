@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_chip_selected.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_chip_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_star_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\xml_method.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_image_placeholder.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_image_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_level_chip.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_level_chip.xml"
+    },
+    {
+        "merged": "com.example.haydaykeyboard.app-debug-35:/layout_keyboard_view.xml.flat",
+        "source": "com.example.haydaykeyboard.app-main-37:/layout/keyboard_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_keyboard_surface.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_keyboard_surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\layout_item_machine_tab.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\layout\\item_machine_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_language.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-debug-35:\\layout_keyboard_view.xml.flat",
+        "source": "C:\\Users\\johar\\.gradle\\daemon\\8.13\\com.example.haydaykeyboard.app-main-37:\\layout\\keyboard_view.xml"
+    }
+]

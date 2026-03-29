@@ -1,0 +1,134 @@
+[
+  {
+    "id": "bakery",
+    "nameEn": "Bakery",
+    "nameAr": "المخبز",
+    "unlockLevel": 2
+  },
+  {
+    "id": "dairy",
+    "nameEn": "Dairy",
+    "nameAr": "معمل الألبان",
+    "unlockLevel": 6
+  },
+  {
+    "id": "sugar_mill",
+    "nameEn": "Sugar Mill",
+    "nameAr": "مطحنة السكر",
+    "unlockLevel": 7
+  },
+  {
+    "id": "popcorn_pot",
+    "nameEn": "Popcorn Pot",
+    "nameAr": "قدر الفشار",
+    "unlockLevel": 8
+  },
+  {
+    "id": "bbq_grill",
+    "nameEn": "BBQ Grill",
+    "nameAr": "شواية",
+    "unlockLevel": 9
+  },
+  {
+    "id": "pie_oven",
+    "nameEn": "Pie Oven",
+    "nameAr": "فرن الفطائر",
+    "unlockLevel": 14
+  },
+  {
+    "id": "cake_oven",
+    "nameEn": "Cake Oven",
+    "nameAr": "فرن الكيك",
+    "unlockLevel": 15
+  },
+  {
+    "id": "loom",
+    "nameEn": "Loom",
+    "nameAr": "النول",
+    "unlockLevel": 17
+  },
+  {
+    "id": "sewing_machine",
+    "nameEn": "Sewing Machine",
+    "nameAr": "ماكينة الخياطة",
+    "unlockLevel": 19
+  },
+  {
+    "id": "juice_press",
+    "nameEn": "Juice Press",
+    "nameAr": "عصارة",
+    "unlockLevel": 26
+  },
+  {
+    "id": "ice_cream_maker",
+    "nameEn": "Ice Cream Maker",
+    "nameAr": "صانعة الآيس كريم",
+    "unlockLevel": 29
+  },
+  {
+    "id": "jam_maker",
+    "nameEn": "Jam Maker",
+    "nameAr": "صانع المربى",
+    "unlockLevel": 35
+  },
+  {
+    "id": "sandwich_bar",
+    "nameEn": "Sandwich Bar",
+    "nameAr": "بار الساندويتش",
+    "unlockLevel": 37
+  },
+  {
+    "id": "coffee_kiosk",
+    "nameEn": "Coffee Kiosk",
+    "nameAr": "كشك القهوة",
+    "unlockLevel": 42
+  },
+  {
+    "id": "soup_kitchen",
+    "nameEn": "Soup Kitchen",
+    "nameAr": "مطبخ الشوربة",
+    "unlockLevel": 46
+  },
+  {
+    "id": "candy_machine",
+    "nameEn": "Candy Machine",
+    "nameAr": "آلة الحلوى",
+    "unlockLevel": 51
+  },
+  {
+    "id": "sushi_bar",
+    "nameEn": "Sushi Bar",
+    "nameAr": "بار السوشي",
+    "unlockLevel": 56
+  },
+  {
+    "id": "salad_bar",
+    "nameEn": "Salad Bar",
+    "nameAr": "بار السلطات",
+    "unlockLevel": 58
+  },
+  {
+    "id": "smoothie_maker",
+    "nameEn": "Smoothie Maker",
+    "nameAr": "صانعة السموثي",
+    "unlockLevel": 64
+  },
+  {
+    "id": "pasta_kitchen",
+    "nameEn": "Pasta Kitchen",
+    "nameAr": "مطبخ الباستا",
+    "unlockLevel": 72
+  },
+  {
+    "id": "wok_kitchen",
+    "nameEn": "Wok Kitchen",
+    "nameAr": "مطبخ الووك",
+    "unlockLevel": 89
+  },
+  {
+    "id": "preservation_station",
+    "nameEn": "Preservation Station",
+    "nameAr": "محطة الحفظ",
+    "unlockLevel": 91
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "id": "bread",
+    "nameEn": "Bread",
+    "nameAr": "خبز",
+    "level": 2,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Bread.png"
+  },
+  {
+    "id": "corn_bread",
+    "nameEn": "Corn Bread",
+    "nameAr": "خبز الذرة",
+    "level": 7,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Corn_Bread.png"
+  },
+  {
+    "id": "cookie",
+    "nameEn": "Cookie",
+    "nameAr": "كوكي",
+    "level": 10,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cookie.png"
+  },
+  {
+    "id": "brown_bread",
+    "nameEn": "Brown Bread",
+    "nameAr": "خبز بني",
+    "level": 15,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Brown_Bread.png"
+  },
+  {
+    "id": "raspberry_muffin",
+    "nameEn": "Raspberry Muffin",
+    "nameAr": "مافن التوت الأحمر",
+    "level": 19,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Raspberry_Muffin.png"
+  },
+  {
+    "id": "blackberry_muffin",
+    "nameEn": "Blackberry Muffin",
+    "nameAr": "مافن التوت الأسود",
+    "level": 26,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Blackberry_Muffin.png"
+  },
+  {
+    "id": "potato_bread",
+    "nameEn": "Potato Bread",
+    "nameAr": "خبز البطاطس",
+    "level": 39,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Potato_Bread.png"
+  },
+  {
+    "id": "banana_bread",
+    "nameEn": "Banana Bread",
+    "nameAr": "خبز الموز",
+    "level": 47,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Banana_Bread.png"
+  },
+  {
+    "id": "pizza",
+    "nameEn": "Pizza",
+    "nameAr": "بيتزا",
+    "level": 33,
+    "machineId": "bakery",
+    "machineNameEn": "Bakery",
+    "machineNameAr": "المخبز",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Pizza.png"
+  },
+  {
+    "id": "cream",
+    "nameEn": "Cream",
+    "nameAr": "كريمة",
+    "level": 6,
+    "machineId": "dairy",
+    "machineNameEn": "Dairy",
+    "machineNameAr": "معمل الألبان",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cream.png"
+  },
+  {
+    "id": "butter",
+    "nameEn": "Butter",
+    "nameAr": "زبدة",
+    "level": 9,
+    "machineId": "dairy",
+    "machineNameEn": "Dairy",
+    "machineNameAr": "معمل الألبان",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Butter.png"
+  },
+  {
+    "id": "cheese",
+    "nameEn": "Cheese",
+    "nameAr": "جبن",
+    "level": 12,
+    "machineId": "dairy",
+    "machineNameEn": "Dairy",
+    "machineNameAr": "معمل الألبان",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cheese.png"
+  },
+  {
+    "id": "goat_cheese",
+    "nameEn": "Goat Cheese",
+    "nameAr": "جبن ماعز",
+    "level": 33,
+    "machineId": "dairy",
+    "machineNameEn": "Dairy",
+    "machineNameAr": "معمل الألبان",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Goat_Cheese.png"
+  },
+  {
+    "id": "feta_pie_filling",
+    "nameEn": "Feta Pie Filling",
+    "nameAr": "حشوة فطيرة الفيتا",
+    "level": 65,
+    "machineId": "dairy",
+    "machineNameEn": "Dairy",
+    "machineNameAr": "معمل الألبان",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Feta_Pie_Filling.png"
+  },
+  {
+    "id": "brown_sugar",
+    "nameEn": "Brown Sugar",
+    "nameAr": "سكر بني",
+    "level": 7,
+    "machineId": "sugar_mill",
+    "machineNameEn": "Sugar Mill",
+    "machineNameAr": "مطحنة السكر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Brown_Sugar.png"
+  },
+  {
+    "id": "white_sugar",
+    "nameEn": "White Sugar",
+    "nameAr": "سكر أبيض",
+    "level": 13,
+    "machineId": "sugar_mill",
+    "machineNameEn": "Sugar Mill",
+    "machineNameAr": "مطحنة السكر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=White_Sugar.png"
+  },
+  {
+    "id": "syrup",
+    "nameEn": "Syrup",
+    "nameAr": "شراب سكري",
+    "level": 18,
+    "machineId": "sugar_mill",
+    "machineNameEn": "Sugar Mill",
+    "machineNameAr": "مطحنة السكر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Syrup.png"
+  },
+  {
+    "id": "popcorn",
+    "nameEn": "Popcorn",
+    "nameAr": "فشار",
+    "level": 8,
+    "machineId": "popcorn_pot",
+    "machineNameEn": "Popcorn Pot",
+    "machineNameAr": "قدر الفشار",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Popcorn.png"
+  },
+  {
+    "id": "butter_popcorn",
+    "nameEn": "Butter Popcorn",
+    "nameAr": "فشار بالزبدة",
+    "level": 9,
+    "machineId": "popcorn_pot",
+    "machineNameEn": "Popcorn Pot",
+    "machineNameAr": "قدر الفشار",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Butter_Popcorn.png"
+  },
+  {
+    "id": "chili_popcorn",
+    "nameEn": "Chili Popcorn",
+    "nameAr": "فشار حار",
+    "level": 25,
+    "machineId": "popcorn_pot",
+    "machineNameEn": "Popcorn Pot",
+    "machineNameAr": "قدر الفشار",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Chili_Popcorn.png"
+  },
+  {
+    "id": "snack_mix",
+    "nameEn": "Snack Mix",
+    "nameAr": "خليط سناك",
+    "level": 32,
+    "machineId": "popcorn_pot",
+    "machineNameEn": "Popcorn Pot",
+    "machineNameAr": "قدر الفشار",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Snack_Mix.png"
+  },
+  {
+    "id": "chocolate_popcorn",
+    "nameEn": "Chocolate Popcorn",
+    "nameAr": "فشار بالشوكولاتة",
+    "level": 44,
+    "machineId": "popcorn_pot",
+    "machineNameEn": "Popcorn Pot",
+    "machineNameAr": "قدر الفشار",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Chocolate_Popcorn.png"
+  },
+  {
+    "id": "pancakes",
+    "nameEn": "Pancakes",
+    "nameAr": "بان كيك",
+    "level": 9,
+    "machineId": "bbq_grill",
+    "machineNameEn": "BBQ Grill",
+    "machineNameAr": "شواية",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Pancakes.png"
+  },
+  {
+    "id": "bacon_and_eggs",
+    "nameEn": "Bacon and Eggs",
+    "nameAr": "بيض ولحم مقدد",
+    "level": 11,
+    "machineId": "bbq_grill",
+    "machineNameEn": "BBQ Grill",
+    "machineNameAr": "شواية",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Bacon_and_Eggs.png"
+  },
+  {
+    "id": "hamburger",
+    "nameEn": "Hamburger",
+    "nameAr": "همبرغر",
+    "level": 18,
+    "machineId": "bbq_grill",
+    "machineNameEn": "BBQ Grill",
+    "machineNameAr": "شواية",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Hamburger.png"
+  },
+  {
+    "id": "fish_burger",
+    "nameEn": "Fish Burger",
+    "nameAr": "برغر سمك",
+    "level": 27,
+    "machineId": "bbq_grill",
+    "machineNameEn": "BBQ Grill",
+    "machineNameAr": "شواية",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fish_Burger.png"
+  },
+  {
+    "id": "roasted_tomatoes",
+    "nameEn": "Roasted Tomatoes",
+    "nameAr": "طماطم مشوية",
+    "level": 33,
+    "machineId": "bbq_grill",
+    "machineNameEn": "BBQ Grill",
+    "machineNameAr": "شواية",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Roasted_Tomatoes.png"
+  },
+  {
+    "id": "carrot_pie",
+    "nameEn": "Carrot Pie",
+    "nameAr": "فطيرة الجزر",
+    "level": 14,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Carrot_Pie.png"
+  },
+  {
+    "id": "pumpkin_pie",
+    "nameEn": "Pumpkin Pie",
+    "nameAr": "فطيرة القرع",
+    "level": 15,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Pumpkin_Pie.png"
+  },
+  {
+    "id": "bacon_pie",
+    "nameEn": "Bacon Pie",
+    "nameAr": "فطيرة اللحم المقدد",
+    "level": 18,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Bacon_Pie.png"
+  },
+  {
+    "id": "apple_pie",
+    "nameEn": "Apple Pie",
+    "nameAr": "فطيرة التفاح",
+    "level": 23,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Apple_Pie.png"
+  },
+  {
+    "id": "feta_pie",
+    "nameEn": "Feta Pie",
+    "nameAr": "فطيرة فيتا",
+    "level": 31,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Feta_Pie.png"
+  },
+  {
+    "id": "fish_pie",
+    "nameEn": "Fish Pie",
+    "nameAr": "فطيرة السمك",
+    "level": 28,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fish_Pie.png"
+  },
+  {
+    "id": "shepherds_pie",
+    "nameEn": "Shepherd's Pie",
+    "nameAr": "فطيرة الراعي",
+    "level": 35,
+    "machineId": "pie_oven",
+    "machineNameEn": "Pie Oven",
+    "machineNameAr": "فرن الفطائر",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Shepherd%27s_Pie.png"
+  },
+  {
+    "id": "cream_cake",
+    "nameEn": "Cream Cake",
+    "nameAr": "كيكة بالكريمة",
+    "level": 15,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cream_Cake.png"
+  },
+  {
+    "id": "carrot_cake",
+    "nameEn": "Carrot Cake",
+    "nameAr": "كيكة الجزر",
+    "level": 21,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Carrot_Cake.png"
+  },
+  {
+    "id": "cheesecake",
+    "nameEn": "Cheesecake",
+    "nameAr": "تشيز كيك",
+    "level": 24,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cheesecake.png"
+  },
+  {
+    "id": "strawberry_cake",
+    "nameEn": "Strawberry Cake",
+    "nameAr": "كيكة الفراولة",
+    "level": 31,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Strawberry_Cake.png"
+  },
+  {
+    "id": "chocolate_cake",
+    "nameEn": "Chocolate Cake",
+    "nameAr": "كيكة الشوكولاتة",
+    "level": 36,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Chocolate_Cake.png"
+  },
+  {
+    "id": "red_berry_cake",
+    "nameEn": "Red Berry Cake",
+    "nameAr": "كيكة التوت الأحمر",
+    "level": 61,
+    "machineId": "cake_oven",
+    "machineNameEn": "Cake Oven",
+    "machineNameAr": "فرن الكيك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Red_Berry_Cake.png"
+  },
+  {
+    "id": "carrot_juice",
+    "nameEn": "Carrot Juice",
+    "nameAr": "عصير الجزر",
+    "level": 26,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Carrot_Juice.png"
+  },
+  {
+    "id": "apple_juice",
+    "nameEn": "Apple Juice",
+    "nameAr": "عصير التفاح",
+    "level": 28,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Apple_Juice.png"
+  },
+  {
+    "id": "cherry_juice",
+    "nameEn": "Cherry Juice",
+    "nameAr": "عصير الكرز",
+    "level": 31,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cherry_Juice.png"
+  },
+  {
+    "id": "berry_juice",
+    "nameEn": "Berry Juice",
+    "nameAr": "عصير التوت",
+    "level": 35,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Berry_Juice.png"
+  },
+  {
+    "id": "tomato_juice",
+    "nameEn": "Tomato Juice",
+    "nameAr": "عصير الطماطم",
+    "level": 39,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Tomato_Juice.png"
+  },
+  {
+    "id": "orange_juice",
+    "nameEn": "Orange Juice",
+    "nameAr": "عصير البرتقال",
+    "level": 48,
+    "machineId": "juice_press",
+    "machineNameEn": "Juice Press",
+    "machineNameAr": "عصارة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Orange_Juice.png"
+  },
+  {
+    "id": "wooly_chaps",
+    "nameEn": "Wooly Chaps",
+    "nameAr": "سروال صوفي",
+    "level": 36,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Wooly_Chaps.png"
+  },
+  {
+    "id": "blue_sweater",
+    "nameEn": "Blue Sweater",
+    "nameAr": "سترة زرقاء",
+    "level": 19,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Blue_Sweater.png"
+  },
+  {
+    "id": "cotton_shirt",
+    "nameEn": "Cotton Shirt",
+    "nameAr": "قميص قطني",
+    "level": 27,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cotton_Shirt.png"
+  },
+  {
+    "id": "red_scarf",
+    "nameEn": "Red Scarf",
+    "nameAr": "وشاح أحمر",
+    "level": 37,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Red_Scarf.png"
+  },
+  {
+    "id": "flower_shawl",
+    "nameEn": "Flower Shawl",
+    "nameAr": "شال الزهور",
+    "level": 53,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Flower_Shawl.png"
+  },
+  {
+    "id": "blanket",
+    "nameEn": "Blanket",
+    "nameAr": "بطانية",
+    "level": 59,
+    "machineId": "loom",
+    "machineNameEn": "Loom",
+    "machineNameAr": "النول",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Blanket.png"
+  },
+  {
+    "id": "violet_dress",
+    "nameEn": "Violet Dress",
+    "nameAr": "فستان بنفسجي",
+    "level": 19,
+    "machineId": "sewing_machine",
+    "machineNameEn": "Sewing Machine",
+    "machineNameAr": "ماكينة الخياطة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Violet_Dress.png"
+  },
+  {
+    "id": "cotton_pants",
+    "nameEn": "Cotton Pants",
+    "nameAr": "بنطال قطني",
+    "level": 42,
+    "machineId": "sewing_machine",
+    "machineNameEn": "Sewing Machine",
+    "machineNameAr": "ماكينة الخياطة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cotton_Pants.png"
+  },
+  {
+    "id": "cap",
+    "nameEn": "Cap",
+    "nameAr": "قبعة",
+    "level": 51,
+    "machineId": "sewing_machine",
+    "machineNameEn": "Sewing Machine",
+    "machineNameAr": "ماكينة الخياطة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cap.png"
+  },
+  {
+    "id": "apple_jam",
+    "nameEn": "Apple Jam",
+    "nameAr": "مربى التفاح",
+    "level": 35,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Apple_Jam.png"
+  },
+  {
+    "id": "raspberry_jam",
+    "nameEn": "Raspberry Jam",
+    "nameAr": "مربى التوت الأحمر",
+    "level": 35,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Raspberry_Jam.png"
+  },
+  {
+    "id": "blackberry_jam",
+    "nameEn": "Blackberry Jam",
+    "nameAr": "مربى التوت الأسود",
+    "level": 35,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Blackberry_Jam.png"
+  },
+  {
+    "id": "cherry_jam",
+    "nameEn": "Cherry Jam",
+    "nameAr": "مربى الكرز",
+    "level": 35,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cherry_Jam.png"
+  },
+  {
+    "id": "strawberry_jam",
+    "nameEn": "Strawberry Jam",
+    "nameAr": "مربى الفراولة",
+    "level": 35,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Strawberry_Jam.png"
+  },
+  {
+    "id": "orange_marmalade",
+    "nameEn": "Orange Marmalade",
+    "nameAr": "مربى البرتقال",
+    "level": 48,
+    "machineId": "jam_maker",
+    "machineNameEn": "Jam Maker",
+    "machineNameAr": "صانع المربى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Orange_Marmalade.png"
+  },
+  {
+    "id": "ice_cream",
+    "nameEn": "Ice Cream",
+    "nameAr": "آيس كريم",
+    "level": 29,
+    "machineId": "ice_cream_maker",
+    "machineNameEn": "Ice Cream Maker",
+    "machineNameAr": "صانعة الآيس كريم",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Ice_Cream.png"
+  },
+  {
+    "id": "sesame_ice_cream",
+    "nameEn": "Sesame Ice Cream",
+    "nameAr": "آيس كريم السمسم",
+    "level": 50,
+    "machineId": "ice_cream_maker",
+    "machineNameEn": "Ice Cream Maker",
+    "machineNameAr": "صانعة الآيس كريم",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Sesame_Ice_Cream.png"
+  },
+  {
+    "id": "cherry_popsicle",
+    "nameEn": "Cherry Popsicle",
+    "nameAr": "مصاصة كرز",
+    "level": 33,
+    "machineId": "ice_cream_maker",
+    "machineNameEn": "Ice Cream Maker",
+    "machineNameAr": "صانعة الآيس كريم",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Cherry_Popsicle.png"
+  },
+  {
+    "id": "vanilla_ice_cream",
+    "nameEn": "Vanilla Ice Cream",
+    "nameAr": "آيس كريم فانيلا",
+    "level": 59,
+    "machineId": "ice_cream_maker",
+    "machineNameEn": "Ice Cream Maker",
+    "machineNameAr": "صانعة الآيس كريم",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Vanilla_Ice_Cream.png"
+  },
+  {
+    "id": "coffee",
+    "nameEn": "Coffee",
+    "nameAr": "قهوة",
+    "level": 42,
+    "machineId": "coffee_kiosk",
+    "machineNameEn": "Coffee Kiosk",
+    "machineNameAr": "كشك القهوة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Coffee.png"
+  },
+  {
+    "id": "espresso",
+    "nameEn": "Espresso",
+    "nameAr": "إسبريسو",
+    "level": 47,
+    "machineId": "coffee_kiosk",
+    "machineNameEn": "Coffee Kiosk",
+    "machineNameAr": "كشك القهوة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Espresso.png"
+  },
+  {
+    "id": "caffe_latte",
+    "nameEn": "Caffe Latte",
+    "nameAr": "كافيه لاتيه",
+    "level": 54,
+    "machineId": "coffee_kiosk",
+    "machineNameEn": "Coffee Kiosk",
+    "machineNameAr": "كشك القهوة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Caffe_Latte.png"
+  },
+  {
+    "id": "mocha",
+    "nameEn": "Mocha",
+    "nameAr": "موكا",
+    "level": 64,
+    "machineId": "coffee_kiosk",
+    "machineNameEn": "Coffee Kiosk",
+    "machineNameAr": "كشك القهوة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Mocha.png"
+  },
+  {
+    "id": "lobster_soup",
+    "nameEn": "Lobster Soup",
+    "nameAr": "شوربة لوبستر",
+    "level": 46,
+    "machineId": "soup_kitchen",
+    "machineNameEn": "Soup Kitchen",
+    "machineNameAr": "مطبخ الشوربة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Lobster_Soup.png"
+  },
+  {
+    "id": "tomato_soup",
+    "nameEn": "Tomato Soup",
+    "nameAr": "شوربة طماطم",
+    "level": 47,
+    "machineId": "soup_kitchen",
+    "machineNameEn": "Soup Kitchen",
+    "machineNameAr": "مطبخ الشوربة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Tomato_Soup.png"
+  },
+  {
+    "id": "fish_soup",
+    "nameEn": "Fish Soup",
+    "nameAr": "شوربة سمك",
+    "level": 56,
+    "machineId": "soup_kitchen",
+    "machineNameEn": "Soup Kitchen",
+    "machineNameAr": "مطبخ الشوربة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fish_Soup.png"
+  },
+  {
+    "id": "noodle_soup",
+    "nameEn": "Noodle Soup",
+    "nameAr": "شوربة نودلز",
+    "level": 68,
+    "machineId": "soup_kitchen",
+    "machineNameEn": "Soup Kitchen",
+    "machineNameAr": "مطبخ الشوربة",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Noodle_Soup.png"
+  },
+  {
+    "id": "bacon_toast",
+    "nameEn": "Bacon Toast",
+    "nameAr": "توست باللحم المقدد",
+    "level": 37,
+    "machineId": "sandwich_bar",
+    "machineNameEn": "Sandwich Bar",
+    "machineNameAr": "بار الساندويتش",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Bacon_Toast.png"
+  },
+  {
+    "id": "egg_sandwich",
+    "nameEn": "Egg Sandwich",
+    "nameAr": "ساندويتش البيض",
+    "level": 49,
+    "machineId": "sandwich_bar",
+    "machineNameEn": "Sandwich Bar",
+    "machineNameAr": "بار الساندويتش",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Egg_Sandwich.png"
+  },
+  {
+    "id": "fish_sandwich",
+    "nameEn": "Fish Sandwich",
+    "nameAr": "ساندويتش السمك",
+    "level": 61,
+    "machineId": "sandwich_bar",
+    "machineNameEn": "Sandwich Bar",
+    "machineNameAr": "بار الساندويتش",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fish_Sandwich.png"
+  },
+  {
+    "id": "toffee",
+    "nameEn": "Toffee",
+    "nameAr": "توفي",
+    "level": 51,
+    "machineId": "candy_machine",
+    "machineNameEn": "Candy Machine",
+    "machineNameAr": "آلة الحلوى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Toffee.png"
+  },
+  {
+    "id": "candy_apple",
+    "nameEn": "Candy Apple",
+    "nameAr": "تفاح ملبس",
+    "level": 51,
+    "machineId": "candy_machine",
+    "machineNameEn": "Candy Machine",
+    "machineNameAr": "آلة الحلوى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Candy_Apple.png"
+  },
+  {
+    "id": "chocolate",
+    "nameEn": "Chocolate",
+    "nameAr": "شوكولاتة",
+    "level": 54,
+    "machineId": "candy_machine",
+    "machineNameEn": "Candy Machine",
+    "machineNameAr": "آلة الحلوى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Chocolate.png"
+  },
+  {
+    "id": "lollipop",
+    "nameEn": "Lollipop",
+    "nameAr": "مصاصة",
+    "level": 58,
+    "machineId": "candy_machine",
+    "machineNameEn": "Candy Machine",
+    "machineNameAr": "آلة الحلوى",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Lollipop.png"
+  },
+  {
+    "id": "fresh_pasta",
+    "nameEn": "Fresh Pasta",
+    "nameAr": "باستا طازجة",
+    "level": 72,
+    "machineId": "pasta_kitchen",
+    "machineNameEn": "Pasta Kitchen",
+    "machineNameAr": "مطبخ الباستا",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fresh_Pasta.png"
+  },
+  {
+    "id": "lasagna",
+    "nameEn": "Lasagna",
+    "nameAr": "لازانيا",
+    "level": 86,
+    "machineId": "pasta_kitchen",
+    "machineNameEn": "Pasta Kitchen",
+    "machineNameAr": "مطبخ الباستا",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Lasagna.png"
+  },
+  {
+    "id": "pasta_salad",
+    "nameEn": "Pasta Salad",
+    "nameAr": "سلطة باستا",
+    "level": 88,
+    "machineId": "pasta_kitchen",
+    "machineNameEn": "Pasta Kitchen",
+    "machineNameAr": "مطبخ الباستا",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Pasta_Salad.png"
+  },
+  {
+    "id": "fried_rice",
+    "nameEn": "Fried Rice",
+    "nameAr": "أرز مقلي",
+    "level": 89,
+    "machineId": "wok_kitchen",
+    "machineNameEn": "Wok Kitchen",
+    "machineNameAr": "مطبخ الووك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Fried_Rice.png"
+  },
+  {
+    "id": "tofu_stir_fry",
+    "nameEn": "Tofu Stir Fry",
+    "nameAr": "توفو مقلي",
+    "level": 92,
+    "machineId": "wok_kitchen",
+    "machineNameEn": "Wok Kitchen",
+    "machineNameAr": "مطبخ الووك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Tofu_Stir_Fry.png"
+  },
+  {
+    "id": "noodles",
+    "nameEn": "Noodles",
+    "nameAr": "نودلز",
+    "level": 100,
+    "machineId": "wok_kitchen",
+    "machineNameEn": "Wok Kitchen",
+    "machineNameAr": "مطبخ الووك",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Noodles.png"
+  },
+  {
+    "id": "green_salad",
+    "nameEn": "Green Salad",
+    "nameAr": "سلطة خضراء",
+    "level": 58,
+    "machineId": "salad_bar",
+    "machineNameEn": "Salad Bar",
+    "machineNameAr": "بار السلطات",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Green_Salad.png"
+  },
+  {
+    "id": "potato_salad",
+    "nameEn": "Potato Salad",
+    "nameAr": "سلطة البطاطس",
+    "level": 64,
+    "machineId": "salad_bar",
+    "machineNameEn": "Salad Bar",
+    "machineNameAr": "بار السلطات",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Potato_Salad.png"
+  },
+  {
+    "id": "seafood_salad",
+    "nameEn": "Seafood Salad",
+    "nameAr": "سلطة بحرية",
+    "level": 71,
+    "machineId": "salad_bar",
+    "machineNameEn": "Salad Bar",
+    "machineNameAr": "بار السلطات",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Seafood_Salad.png"
+  },
+  {
+    "id": "berry_smoothie",
+    "nameEn": "Berry Smoothie",
+    "nameAr": "سموثي التوت",
+    "level": 64,
+    "machineId": "smoothie_maker",
+    "machineNameEn": "Smoothie Maker",
+    "machineNameAr": "صانعة السموثي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Berry_Smoothie.png"
+  },
+  {
+    "id": "tropical_smoothie",
+    "nameEn": "Tropical Smoothie",
+    "nameAr": "سموثي استوائي",
+    "level": 76,
+    "machineId": "smoothie_maker",
+    "machineNameEn": "Smoothie Maker",
+    "machineNameAr": "صانعة السموثي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Tropical_Smoothie.png"
+  },
+  {
+    "id": "green_smoothie",
+    "nameEn": "Green Smoothie",
+    "nameAr": "سموثي أخضر",
+    "level": 91,
+    "machineId": "smoothie_maker",
+    "machineNameEn": "Smoothie Maker",
+    "machineNameAr": "صانعة السموثي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Green_Smoothie.png"
+  },
+  {
+    "id": "sushi_roll",
+    "nameEn": "Sushi Roll",
+    "nameAr": "لفائف سوشي",
+    "level": 56,
+    "machineId": "sushi_bar",
+    "machineNameEn": "Sushi Bar",
+    "machineNameAr": "بار السوشي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Sushi_Roll.png"
+  },
+  {
+    "id": "egg_sushi",
+    "nameEn": "Egg Sushi",
+    "nameAr": "سوشي البيض",
+    "level": 67,
+    "machineId": "sushi_bar",
+    "machineNameEn": "Sushi Bar",
+    "machineNameAr": "بار السوشي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Egg_Sushi.png"
+  },
+  {
+    "id": "lobster_sushi",
+    "nameEn": "Lobster Sushi",
+    "nameAr": "سوشي لوبستر",
+    "level": 83,
+    "machineId": "sushi_bar",
+    "machineNameEn": "Sushi Bar",
+    "machineNameAr": "بار السوشي",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Lobster_Sushi.png"
+  },
+  {
+    "id": "pickles",
+    "nameEn": "Pickles",
+    "nameAr": "مخللات",
+    "level": 91,
+    "machineId": "preservation_station",
+    "machineNameEn": "Preservation Station",
+    "machineNameAr": "محطة الحفظ",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Pickles.png"
+  },
+  {
+    "id": "kimchi",
+    "nameEn": "Kimchi",
+    "nameAr": "كيمتشي",
+    "level": 93,
+    "machineId": "preservation_station",
+    "machineNameEn": "Preservation Station",
+    "machineNameAr": "محطة الحفظ",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Kimchi.png"
+  },
+  {
+    "id": "guava_compote",
+    "nameEn": "Guava Compote",
+    "nameAr": "كومبوت الجوافة",
+    "level": 95,
+    "machineId": "preservation_station",
+    "machineNameEn": "Preservation Station",
+    "machineNameAr": "محطة الحفظ",
+    "imageUrl": "https://static.wikia.nocookie.net/hayday/images/latest/scale-to-width-down/128?cb=1&path-prefix=ar&file=Guava_Compote.png"
+  }
+]
