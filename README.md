@@ -34,19 +34,3 @@
 
 ## البناء
 افتح المشروع في Android Studio ثم نفّذ Build > Build APK(s).
-
-
-## Online APK Build via GitHub
-
-This project includes a GitHub Actions workflow that can build a **debug APK online** without Android Studio.
-
-### Steps
-1. Create a new repository on GitHub.
-2. Upload all project files to the repository.
-3. Open the **Actions** tab.
-4. Run **Build Android Debug APK**.
-5. After it finishes, open the workflow run and download the artifact named **hayday-keyboard-debug-apk**.
-
-### Notes
-- This produces a **debug APK** suitable for testing.
-- For Play Store or signed release builds, add a keystore and release signing config later.
